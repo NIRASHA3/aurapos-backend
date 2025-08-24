@@ -4,7 +4,8 @@
   "description": "retail pos system",
   "main": "server.js",
   "engines": {
-    "node": "22.x"
+    "node": "15.7.0",
+    "npm": "7.4.3"
   },
   
   "scripts": {
