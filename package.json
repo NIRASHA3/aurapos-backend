@@ -2,11 +2,11 @@
   "name": "aurapos",
   "version": "1.0.0",
   "description": "retail pos system",
-  "main": "index.js",
+  "main": "server.js",
   "engines": {
-    "node": "15.7.0",
-    "npm": "7.4.3"
+    "node": "22.x"
   },
+  
   "scripts": {
     "client-install": "npm install --prefix client",
     "server": "nodemon server.js",
